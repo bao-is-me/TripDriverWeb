@@ -28,6 +28,7 @@ dist-ssr
 .DS_Store
 
 # Visual Studio
+.vs/
 *.suo
 *.ntvs*
 *.njsproj
